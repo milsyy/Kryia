@@ -20,6 +20,7 @@ ul {
 .img-one {
   width: 400px;
   height: 300px;
+  border-radius: 10px;
 }
 
 .header-links {
@@ -103,6 +104,7 @@ button {
 
 .img-two {
   max-width: 20%;
+  border-radius: 20px;
 }
 
 .mission {
