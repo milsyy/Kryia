@@ -73,12 +73,16 @@ button {
 }
 
 button {
-  width: 70px;
+  width: 140px;
   height: 25px;
   background-color: #3882f6;
   font-weight: bold;
   border-radius: 10px;
   border-color: #3882f6;
+}
+
+button:hover {
+  background-color: #1f2937;
 }
 
 .second {
