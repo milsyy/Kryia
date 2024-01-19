@@ -75,14 +75,17 @@ button {
 button {
   width: 140px;
   height: 25px;
-  background-color: #3882f6;
+  background-color: rgb(18, 57, 121);
   font-weight: bold;
   border-radius: 10px;
-  border-color: #3882f6;
+  border: none;
+  color: rgb(212, 212, 212);
+  font-size: 13px;
 }
 
 button:hover {
-  background-color: #1f2937;
+  background-color: #2b476e;
+  cursor: pointer;
 }
 
 .second {
