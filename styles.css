@@ -17,6 +17,13 @@ ul {
   padding: 0px;
 }
 
+footer {
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+  background-color: #1d1d1d;
+  color: rgb(219, 209, 209);
+}
+
 .img-one {
   width: 400px;
   height: 300px;
@@ -153,5 +160,8 @@ button:hover {
   }
   .text-two {
     font-size: 24px;
+  }
+  footer {
+    padding: 15px 0px 15px 0px;
   }
 }
