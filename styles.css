@@ -133,3 +133,18 @@ button {
     text-align: center;
   }
 }
+
+@media (max-width: 500px) {
+  .img-one {
+    max-width: 300px;
+  }
+  .img-div {
+    gap: 0.5rem;
+  }
+  .mission {
+    font-size: 14px;
+  }
+  .text-two {
+    font-size: 24px;
+  }
+}
