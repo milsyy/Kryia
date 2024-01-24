@@ -164,4 +164,7 @@ button:hover {
   footer {
     padding: 15px 0px 15px 0px;
   }
+  .header-links {
+    gap: 1rem;
+  }
 }
